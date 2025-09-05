@@ -1,0 +1,27 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+    box-sizing: content-box;
+}
+
+.title{
+    background-color: hsl(154, 75%, 47%);
+    padding: 20px;
+    margin-top: 0;
+}
+
+ul{
+    list-style: none;
+    display: block;
+}
+
+.lists a{
+    display: block;
+    margin-bottom: 1px;
+    text-decoration: none;
+    border-left: 3px solid black;
+    padding: 8px;
+    width: 600px;
+    background-color: grey;
+    color: azure;
+}

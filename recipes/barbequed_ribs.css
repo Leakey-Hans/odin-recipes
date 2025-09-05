@@ -1,0 +1,27 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.banner{
+    display: flex;
+    background-color: hsl(154, 75%, 47%);
+    padding-left: 8px;
+}
+.banner a{
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 35px;
+    margin: auto;
+    color: white;
+    font-size: 18px;
+}
+
+.body_ele{
+    margin-left: 8px;
+}
+
+img{
+    margin-left: 8px;
+}
